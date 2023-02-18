@@ -9,7 +9,7 @@ require (
 
 require (
 	github.com/manifoldco/promptui v0.9.0
-	golang.org/x/text v0.5.0
+	golang.org/x/text v0.7.0
 	tidbyt.dev/pixlet v0.22.8
 )
 
@@ -45,8 +45,8 @@ require (
 	go.starlark.net v0.0.0-20221205180719-3fd0dac74452 // indirect
 	golang.org/x/crypto v0.3.0 // indirect
 	golang.org/x/image v0.2.0 // indirect
-	golang.org/x/net v0.2.0 // indirect
-	golang.org/x/sys v0.3.0 // indirect
+	golang.org/x/net v0.7.0 // indirect
+	golang.org/x/sys v0.5.0 // indirect
 	google.golang.org/protobuf v1.28.1 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
